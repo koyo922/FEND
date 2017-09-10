@@ -91,8 +91,8 @@ var project = {
             dates: '2016-11-1',
             description: 'Giving real-time character-level feedback to students who are reciting a poetry.', //'语音识别，自动判错',
             images: [
-                'http://placehold.it/200x150.png',
-                'http://placehold.it/200x150.png'
+                'https://placehold.it/200x150.png',
+                'https://placehold.it/200x150.png'
             ]
         },
         {
@@ -100,8 +100,8 @@ var project = {
             dates: '2017-2-1',
             description: 'Online real-time pronunciation evaluation for kids learning English as a foreign language.',//在线即时的口语评分',
             images: [
-                'http://placehold.it/200x150.png',
-                'http://placehold.it/200x150.png'
+                'https://placehold.it/200x150.png',
+                'https://placehold.it/200x150.png'
             ]
         },
         {
@@ -109,8 +109,8 @@ var project = {
             dates: '2017-3-1',
             description: 'A new question type in the Gaokao(University Entrance Exam) of Guangdong Province, which is much like the speaking part in TOEFL.',//'广东省高考的一种题型，类似TOEFL的口语考试',
             images: [
-                'http://placehold.it/200x150.png',
-                'http://placehold.it/200x150.png'
+                'https://placehold.it/200x150.png',
+                'https://placehold.it/200x150.png'
             ]
         }
     ]
